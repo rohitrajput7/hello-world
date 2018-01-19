@@ -1,3 +1,8 @@
 # hello-world
-just getting started with GitHub. 
-This is a basic hello world program written in C++
+
+Hi Guys!
+I'm new on GitHub and trying to understand it and how it works.
+
+I'll post the programs, softwares and scripts created by me.
+
+
